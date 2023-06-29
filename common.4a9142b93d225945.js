@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgames=self.webpackChunkgames||[]).push([[592],{9649:(t,s,a)=>{a.d(s,{F:()=>n});const n=e=>e[Math.floor(Math.random()*e.length)]}}]);
